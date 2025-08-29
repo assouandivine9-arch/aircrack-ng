@@ -1,0 +1,41 @@
+(1)Start monitor mode
+
+(2)Stop monitor mode
+
+(3)Scan Networks
+
+(4)Getting Handshake (monitor mode needed)
+
+(5) Install Wireless tools
+
+(6) Crack Handshake with rockyou.txt (Handshake needed)
+
+(7) Crack Handshake with wordlist (Handshake needed)
+
+(8) Crack Handshake without wordlist (Handshake, essid needed)
+
+(9) Create wordlist
+
+(10)WPS Networks attacks (bssid, monitor mode needed)
+
+(11)Scan for WPS Networks
+
+(0) About Me
+
+(00) Exit
+
+Enter your choise here: !#
+
+6
+
+Enter the path of the handshake file ?
+
+/home/evil/Desktop/handshake-00:e8:81:75:da:a2:74
+
+To exit Press CTRL +C
+
+Reading packets, please wait...
+
+Opening/home/evil/Desktop/handshake-00:e8:81:75:da:a2:74
+
+Read 1083 packets.
